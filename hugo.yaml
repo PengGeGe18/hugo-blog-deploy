@@ -19,11 +19,11 @@ languages:
         weight: 1
         params:
             sidebar:
-                subtitle: "资深全栈开发程序员😎\n
-                自媒体博主初级选手🤪\n
-                免费工具分享大使😛\n
-                知无不言的暖男😂\n
-                免费定制工作软件😍\n
+                subtitle: "资深全栈开发程序员😎<br>
+                自媒体博主初级选手🤪<br>
+                免费工具分享大使😛<br>
+                知无不言的暖男😂<br>
+                免费定制工作软件😍<br>
                 接兼职开发😋"
 
 services:
