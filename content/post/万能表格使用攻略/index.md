@@ -3,7 +3,7 @@ date = '2024-12-05T14:00:00+08:00'
 draft = true
 title = '万能表格使用攻略'
 tags = ['万能表格']
-categories = ['技术']
+categories = ['技术分享']
 keywords = ['万能表格']
 image = "1.jpg"
 +++

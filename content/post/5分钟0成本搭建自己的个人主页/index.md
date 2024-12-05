@@ -3,7 +3,7 @@ date = '2024-11-28T14:56:19+08:00'
 draft = true
 title = '5分钟0成本搭建自己的个人主页'
 tags = ['个人主页', '0成本']
-categories = ['技术']
+categories = ['技术分享']
 keywords = ['个人主页', '0成本']
 image = "1.jpg"
 +++

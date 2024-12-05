@@ -3,7 +3,7 @@ date = '2024-11-28T14:56:19+08:00'
 draft = true
 title = '5分钟0成本搭建自己的3D相册'
 tags = ['3D相册', '0成本']
-categories = ['技术']
+categories = ['技术分享']
 keywords = ['3D相册', '0成本']
 image = "1.jpg"
 +++
