@@ -9,30 +9,30 @@ image = "1.jpg"
 +++
 
 # 万能表格使用攻略
-## 1. 点击start.bat运行
+## 点击start.bat运行
 ![1.png](1.png)
 
-## 2. 运行后会生成机器码，发送给作者，作者会生成授权码
+## 运行后会生成机器码，发送给作者，作者会生成授权码
 ![2.png](2.png)
 
-## 3. 右键使用记事本打开start.bat, 复制授权码到-code里面
+## 右键使用记事本打开start.bat, 复制授权码到-code里面
 ![3.png](3.png)
 
-## 4. 点击start.bat运行
+## 点击start.bat运行
 ![4.png](4.png)
 
-## 5. 浏览器访问 http://localhost:30128/
+## 浏览器访问 http://localhost:30128/
 ![5.png](5.png)
 
-## 6. 点击配置管理，已有的【广告优化.json】是测试数据，添加新的配置即可。
+## 点击配置管理，已有的【广告优化.json】是测试数据，添加新的配置即可。
 ![6.png](6.png)
 
-## 7. 配置有疑问的可以联系作者免费咨询
+## 配置有疑问的可以联系作者免费咨询
 ![7.jpg](7.jpg)
 
-## 8. 资源包
-[万能表格.zip](万能表格.zip)
-[万能表格-linux-amd64.zip](万能表格-linux-amd64.zip)
-[万能表格-mac-linux-arm.zip](万能表格-mac-linux-arm.zip)
+## 资源包
+##### [万能表格.zip](万能表格.zip)
+##### [万能表格-linux-amd64.zip](万能表格-linux-amd64.zip)
+##### [万能表格-mac-linux-arm.zip](万能表格-mac-linux-arm.zip)
 
-[小红书](http://xhslink.com/a/RtPIbt1Mo720)
+##### [小红书](http://xhslink.com/a/RtPIbt1Mo720)
