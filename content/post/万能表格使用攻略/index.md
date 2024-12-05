@@ -30,9 +30,10 @@ image = "1.jpg"
 ## 配置有疑问的可以联系作者免费咨询
 ![7.jpg](7.jpg)
 
-## 资源包
-##### [万能表格.zip](万能表格.zip)
-##### [万能表格-linux-amd64.zip](万能表格-linux-amd64.zip)
-##### [万能表格-mac-linux-arm.zip](万能表格-mac-linux-arm.zip)
+## 安装包下载
+1. [万能表格.zip](万能表格.zip)
+2. [万能表格-linux-amd64.zip](万能表格-linux-amd64.zip)
+3. [万能表格-mac-linux-arm.zip](万能表格-mac-linux-arm.zip)
 
-##### [小红书](http://xhslink.com/a/RtPIbt1Mo720)
+## 自媒体
+1. [小红书](http://xhslink.com/a/RtPIbt1Mo720)

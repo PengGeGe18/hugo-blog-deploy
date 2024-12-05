@@ -9,3 +9,6 @@ image = "1.jpg"
 +++
 
 # 5分钟0成本搭建自己的个人博客
+1. [5分钟0成本搭建自己的个人博客-小红书](http://xhslink.com/a/aHyJEcvyva30)
+2. [5分钟0成本搭建自己的个人博客-抖音](https://v.douyin.com/iDsoB4LE/) 
+3. [5分钟0成本搭建自己的个人博客-快手](https://v.kuaishou.com/6P1vlA)
