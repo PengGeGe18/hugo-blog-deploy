@@ -35,7 +35,6 @@ image = "1.jpg"
 2. [万能表格-mac-darwin-amd64.zip](万能表格-mac-darwin-amd64.zip)
 3. [万能表格-linux-amd64.zip](万能表格-linux-amd64.zip)
 4. [万能表格-linux-arm.zip](万能表格-linux-arm.zip)
-5. [万能表格-mac-linux-arm.zip](万能表格-mac-linux-arm.zip)
 
 ## 自媒体
 1. [小红书](http://xhslink.com/a/RtPIbt1Mo720)
