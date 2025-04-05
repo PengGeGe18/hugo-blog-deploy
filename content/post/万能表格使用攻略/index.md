@@ -32,11 +32,11 @@ image = "1.jpg"
 
 ## 安装包下载
 1. [万能表格-windows.zip](universal_table.zip)
-2. [万能表格-mac-darwin-amd64.zip](universal_table-mac-darwin-amd64.zip)
-3. [万能表格-mac-m1-darwin-arm64.zip](universal_table-mac-m1-darwin-arm64.zip)
+2. [万能表格-mac-darwin-amd64.app.zip](universal_table-mac-darwin-amd64.app.zip)
+3. [万能表格-mac-m1-darwin-arm64.app.zip](universal_table-mac-m1-darwin-arm64.app.zip)
 4. [万能表格-linux-amd64.zip](universal_table-linux-amd64.zip)
 5. [万能表格-linux-arm64.zip](universal_table-linux-arm64.zip)
-6. [万能表格-mac-darwin-amd64.app.zip](universal_table-mac-darwin-amd64.app.zip)
+
 
 ## 自媒体
 1. [小红书](http://xhslink.com/a/RtPIbt1Mo720)
